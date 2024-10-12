@@ -8,9 +8,9 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Haurane Gabriel Alejandro",
   "license": "ISC",
-  "description": "",
+  "description": "Operaciones del backend de la pagina de recetas",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
