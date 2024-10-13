@@ -7,7 +7,9 @@
     "dev": "node --env-file .env --watch index.js",
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": ["mongoDB",
+    "ExpressJS",
+    "Mongoose"],
   "author": "Haurane Gabriel Alejandro",
   "license": "ISC",
   "description": "Operaciones del backend de la pagina de recetas",
